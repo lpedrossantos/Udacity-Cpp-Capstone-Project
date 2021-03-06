@@ -1,0 +1,5 @@
+    Welcome to the Ecosystem simulation
+    The aim of this project is to simulate a very simple ecosystem, composed by particles (circles) and the source of food (squares).
+    The simulation is guided by cycles, in each cycle the particles must feed and reproduce in other to keep themselves alive and keep the "specie" alive.
+    If a particle ate then it shall survive the next cycle. In each reproduction there's a small percentage of the offspring getting a mutation that may affect it's speed.
+    Please procede to select the number of particles that the simulation should start.
